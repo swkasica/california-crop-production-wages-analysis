@@ -9,3 +9,8 @@ The analysis found that wages for crop production in California have increased b
 Those results were published in a March 17, 2017 story ["Wages rise on California farms. Americans still don’t want the job"](http://www.latimes.com/projects/la-fi-farms-immigration/).
 
 Reproduce the analysis by running the Python code in [03-analysis.ipynb](./03-analysis.ipynb).
+
+### Steve's Notes
+
+![workflow](02-transform-workflow.jpg)
+
